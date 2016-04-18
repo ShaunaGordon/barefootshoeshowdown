@@ -37,7 +37,7 @@ PLUGIN_PATHS = ['plugins']
 MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'headerid', 'toc']
 
 # Theme
-THEME = 'twenty-pelican-html5up'
+THEME = 'twenty'
 
 # Theme Settings
 DIRECT_TEMPLATES = (('index', 'tags', 'categories','archives', 'search', '404'))
