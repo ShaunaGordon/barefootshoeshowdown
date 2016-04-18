@@ -5,6 +5,7 @@ PELICANOPTS=
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
 OUTPUTDIR=$(BASEDIR)/output
+THEMEDIR=$(BASEDIR)/theme
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
@@ -103,8 +104,15 @@ s3_upload: publish
 cf_upload: publish
 	cd $(OUTPUTDIR) && swift -v -A https://auth.api.rackspacecloud.com/v1.0 -U $(CLOUDFILES_USERNAME) -K $(CLOUDFILES_API_KEY) upload -c $(CLOUDFILES_CONTAINER) .
 
-github: publish
+github: publish collectstatic
 	ghp-import -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
 	@git push -fq https://${GH_TOKEN}@github.com/$(TRAVIS_REPO_SLUG).git $(GITHUB_PAGES_BRANCH) > /dev/null
+	
+collectstatic:
+	mkdir -p $(OUTPUTDIR)/css/ $(OUTPUTDIR)/js/ $(OUTPUTDIR)/fonts/ $(OUTPUTDIR)/images/
+	cp -rf $(THEMEDIR)/twenty/static/css/* $(OUTPUTDIR)/css/
+	cp -rf $(THEMEDIR)/twenty/static/js/* $(OUTPUTDIR)/js/
+	cp -rf $(THEMEDIR)/twenty/static/fonts/* $(OUTPUTDIR)/fonts/
+	cp -rf $(THEMEDIR)/twenty/static/images/* $(OUTPUTDIR)/images/
 
 .PHONY: html help clean regenerate serve devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github
