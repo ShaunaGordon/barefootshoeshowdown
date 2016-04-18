@@ -7,7 +7,7 @@ install:
 before_script:
 - pelican-themes -i ./theme/twenty
 - pelican-themes -l
-- ls ./theme
+- ls
 script:
 - make publish github
 env:
