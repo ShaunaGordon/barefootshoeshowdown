@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+import sys
+sys.path.append('.')
+from utils import filters
+
 
 AUTHOR = 'Shauna Gordon'
 SITENAME = 'Barefoot Shoe Showdown'
@@ -29,11 +33,11 @@ OUTPUT_RETENTION = ('.git', '.gitignore')
 
 # Plugins
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['clean_summary', 'collate_content', 'feed_summary', 'footer_insert', 'extract_toc', 'related_posts', 'simple_footnotes', 'share_post', 'summary', 'disqus_static', 'liquid_tags.img','liquid_tags.include_code']
+# PLUGINS = ['clean_summary', 'collate_content', 'feed_summary', 'footer_insert', 'extract_toc', 'related_posts', 'simple_footnotes', 'share_post', 'summary', 'disqus_static', 'liquid_tags.img','liquid_tags.include_code']
 MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'headerid', 'toc']
 
 # Theme
-THEME = 'twenty'
+THEME = 'twenty-pelican-html5up'
 
 # Theme Settings
 DIRECT_TEMPLATES = (('index', 'tags', 'categories','archives', 'search', '404'))
@@ -42,6 +46,7 @@ TAG_SAVE_AS = ''
 CATEGORY_SAVE_AS = ''
 AUTHOR_SAVE_AS = ''
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
+JINJA_FILTERS = { 'sidebar': filters.sidebar }
 
 # Blogroll
 LINKS = ()

@@ -9,6 +9,8 @@ import SocketServer
 env.deploy_path = 'output'
 DEPLOY_PATH = env.deploy_path
 
+env.theme_path = 'theme'
+
 # Remote server configuration
 production = 'root@localhost:22'
 dest_path = '/var/www'
@@ -25,6 +27,7 @@ def clean():
         local('mkdir {deploy_path}'.format(**env))
 
 def build():
+    collectstatic()
     local('pelican -s pelicanconf.py')
 
 def rebuild():
@@ -60,6 +63,14 @@ def cf_upload():
           '-U {cloudfiles_username} '
           '-K {cloudfiles_api_key} '
           'upload -c {cloudfiles_container} .'.format(**env))
+
+def collectstatic():
+  if os.path.isdir(DEPLOY_PATH):
+    local('mkdir -p {deploy_path}/css/ {deploy_path}/js/ {deploy_path}/fonts/ {deploy_path}/images/'.format(**env))
+    local('cp -rf {theme_path}/twenty/static/css/* {deploy_path}/css/'.format(**env))
+    local('cp -rf {theme_path}/twenty/static/js/* {deploy_path}/js/'.format(**env))
+    local('cp -rf {theme_path}/twenty/static/fonts/* {deploy_path}/fonts/'.format(**env))
+    local('cp -rf {theme_path}/twenty/static/images/* {deploy_path}/images/'.format(**env))
 
 @hosts(production)
 def publish():
