@@ -1,2 +1,2 @@
-title: Vibram Five Finger Shoes
-subtitle: -- A Review
+title: About Vibram Five Finger Shoes
+subtitle: An In-Depth Review

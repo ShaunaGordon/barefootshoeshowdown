@@ -1,2 +1,2 @@
-title: Xero Shoes
-subtitle: -- A Review
+title: About Xero Shoes
+subtitle: An In-Depth Review
