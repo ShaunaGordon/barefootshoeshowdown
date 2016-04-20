@@ -17,10 +17,11 @@
   </header> -->
 
   <!-- One -->
-  <section class="wrapper style1 container special">
   {% for page in PAGES %}
+  <section class="wrapper style1 container special">
+  <a name="{{ page.slug }}"
     <header class="special container">
-      <span class="icon fa-mobile"></span>
+      <span class="icon fa-sun"></span>
       <h2>{{ page.title }}</h2>
       <!-- add page sub title here -->
       <p>{{ page.subtitle }}</p>
@@ -38,8 +39,8 @@
         </div>
 
     </section>
-  {% endfor %}
   </section>
+  {% endfor %}
 
   <!-- Two -->
 <!--   <section class="wrapper style1 container special">
