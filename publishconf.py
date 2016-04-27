@@ -48,6 +48,7 @@ AUTHOR_SAVE_AS = ''
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}, 'extra/travis.yml': {'path': '.travis.yml'}}
 JINJA_FILTERS = { 'sidebar': filters.sidebar }
 SUMMARY_MAX_LENGTH = 1000
+SUMMARY_USE_FIRST_PARAGRAPH = true
 
 # Blogroll
 LINKS = ()
