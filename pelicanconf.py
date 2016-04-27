@@ -35,7 +35,8 @@ OUTPUT_RETENTION = ('.git', '.gitignore')
 PLUGIN_PATHS = ['plugins']
 PLUGINS = ['summary']
 MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'headerid', 'toc']
-# SUMMARY_USE_FIRST_PARAGRAPH = True
+SUMMARY_USE_FIRST_PARAGRAPH = True
+SUMMARY_BEGIN_MARKER = "<!-- summary -->"
 SUMMARY_END_MARKER = "<!-- more -->"
 
 # Theme
