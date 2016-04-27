@@ -35,7 +35,7 @@ OUTPUT_RETENTION = ('.git', '.gitignore')
 PLUGIN_PATHS = ['plugins']
 PLUGINS = ['summary']
 MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'headerid', 'toc']
-SUMMARY_MAX_LENGTH = 450
+SUMMARY_MAX_LENGTH = 100
 SUMMARY_USE_FIRST_PARAGRAPH = True
 
 # Theme
