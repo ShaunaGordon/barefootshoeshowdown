@@ -36,8 +36,8 @@ PLUGIN_PATHS = ['plugins']
 PLUGINS = ['summary']
 MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'headerid', 'toc']
 SUMMARY_USE_FIRST_PARAGRAPH = True
-SUMMARY_BEGIN_MARKER = "!begin-summary!"
-SUMMARY_END_MARKER = "!end-summary!"
+# SUMMARY_BEGIN_MARKER = "!begin-summary!"
+# SUMMARY_END_MARKER = "!end-summary!"
 
 # Theme
 THEME = 'twenty'

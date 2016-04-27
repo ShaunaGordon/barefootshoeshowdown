@@ -4,11 +4,11 @@ slug: vibram
 
 Four years ago, I picked up my very first pair of Vibram Five Fingers shoes -- a pair of [KSO TrekSports](http://amzn.to/1SytFhO). I absolutely loved them and wore them everywhere, including to work when my work environment allowed for it. I even picked up a pair of [Treksports](http://amzn.to/1pm4CRy) for indoor training. Two years later, I snagged a pair of [Lontras](http://amzn.to/1qFqGYm), the insulated winter shoes, so I could wear them year-round. About that same time, I was in need of a new pair of "summer" Vibrams, so I picked up the [Bikila LS](http://amzn.to/1Syu9o1) model, and proceeded to walk through them. Twice. After four years, and at least as many pairs, I've finally decided to write a thorough review on them.
 
-!begin-summary!
+<!-- PELICAN_BEGIN_SUMMARY -->
 # Overall Rating: <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star-o" aria-hidden="true"></i>
 
 I give Vibram Five Fingers an overall rating of 4/5 Stars. These shoes, beloved by Tough Mudders and barefoot enthusiasts the world over, are, overall, a pretty solid shoe to go with. Their bold style is guaranteed to be a conversation starter, they're built to fit literally like a glove, and their variety allows you to have pairs for nearly any occasion (especially if you can get your hands on the elusive models that are or appear to be made of leather or can otherwise pass for a more "professional" shoe). Vibram does seem to suffer from a couple of issues, however, that might make it less appealing to some people, especially those who need something more durable.
-!end-summary!
+<!-- PELICAN_END_SUMMARY -->
 
 # Quality: <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star-o" aria-hidden="true"></i> <i class="fa fa-star-o" aria-hidden="true"></i>
 
