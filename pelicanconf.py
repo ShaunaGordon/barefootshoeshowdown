@@ -33,19 +33,21 @@ OUTPUT_RETENTION = ('.git', '.gitignore')
 
 # Plugins
 PLUGIN_PATHS = ['plugins']
-# PLUGINS = ['clean_summary', 'collate_content', 'feed_summary', 'footer_insert', 'extract_toc', 'related_posts', 'simple_footnotes', 'share_post', 'summary', 'disqus_static', 'liquid_tags.img','liquid_tags.include_code']
+PLUGINS = ['summary']
 MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'headerid', 'toc']
+SUMMARY_MAX_LENGTH = None
+SUMMARY_USE_FIRST_PARAGRAPH = True
 
 # Theme
 THEME = 'twenty'
 
 # Theme Settings
 DIRECT_TEMPLATES = (('index', 'tags', 'categories','archives', 'search', '404'))
-STATIC_PATHS = ['theme/images', 'images']
+STATIC_PATHS = ['theme/images', 'images', 'extra']
 TAG_SAVE_AS = ''
 CATEGORY_SAVE_AS = ''
 AUTHOR_SAVE_AS = ''
-EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}, 'extra/travis.yml': {'path': '.travis.yml'}}
 JINJA_FILTERS = { 'sidebar': filters.sidebar }
 
 # Blogroll
