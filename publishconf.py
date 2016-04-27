@@ -33,8 +33,10 @@ OUTPUT_RETENTION = ('.git', '.gitignore')
 
 # Plugins
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['clean_summary', 'summary']
+PLUGINS = ['summary', 'clean_summary']
 MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'headerid', 'toc']
+SUMMARY_MAX_LENGTH = 500
+SUMMARY_USE_FIRST_PARAGRAPH = True
 
 # Theme
 THEME = 'twenty'
@@ -47,8 +49,6 @@ CATEGORY_SAVE_AS = ''
 AUTHOR_SAVE_AS = ''
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}, 'extra/travis.yml': {'path': '.travis.yml'}}
 JINJA_FILTERS = { 'sidebar': filters.sidebar }
-SUMMARY_MAX_LENGTH = 1000
-SUMMARY_USE_FIRST_PARAGRAPH = True
 
 # Blogroll
 LINKS = ()
