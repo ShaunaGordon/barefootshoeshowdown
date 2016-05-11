@@ -42,3 +42,18 @@ Even the standard ones with full-foot fabric, which aren't water resistant, do f
 
 Cold and wet is where the Lontras and other newer water resistant and insulated models come in. The waterproofing allows the Lontras to be worn in snow and slushy conditions, as well as slightly colder dry conditions. They can be worn in even colder with the inclusion of the Injinji socks. I've worn them in weather as cold around 0&deg; Fahrenheit with little issue in dry weather, though that cold and wet start pushing the shoe's limits.
 
+# Learning Curve: <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i>
+
+How quickly can one adapt to a pair of Vibram FiveFingers? Quite quickly, actually.
+
+The hardest part is getting your toes to cooperate and get into the right spots. This can be especially difficult if you've historically worn narrow shoes. This difficulty can be mitigated by starting out with some of the lighterweight and more flexible models (leave the Lontras until you've worn a pair of Bikilas for a summer), but with a little practice, it will quickly become second nature.
+
+The next hardest part is learning to walk in barefoot shoes. If you don't normally walk barefoot, you'll likely find yourself in some discomfort at first. This isn't the shoe's fault, but is a result of years of walking in heavily cushioned footwear, which changes your stride and changes the muscle balance in your feet and legs. Just like you wouldn't go straight to squatting 400 pounds from never having touched a barbell, you have to give yourself time to adjust to the demands of your new shoe -- tweak your walking and running form so you're not landing so heavily on your heel, and give your muscles time to adapt and strengthen. Before you know it, you'll be barefooting with the best of them!
+
+# Groundfeel: <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star-half-o" aria-hidden="true"></i>
+
+Ah, groundfeel, the golden child of minimalist/barefoot shoes. After all, without groundfeel, you're just wearing shoes.
+
+Groundfeel can vary quite widely, depending on the model you get. The [Lontras](http://amzn.to/1qFqGYm), for example, don't rank as high as its better-weather cousins. That's the price the Vibram wearer pays for insulation and winter wearability. Don't be fooled, though, there's still enough to navigate the treacherous ground of an icy sidewalk or parking lot.
+
+Overall, Vibrams have spectacular groundfeel, and if you prefer more, you'll especially love the lighterweight models. From the gravel in the driveway to the warmth of the parking lot blacktop, Vibrams can feel it all.
