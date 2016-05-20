@@ -8,6 +8,7 @@ from utils import filters
 
 AUTHOR = 'Shauna Gordon'
 SITENAME = 'Barefoot Shoe Showdown'
+TAGLINE = 'Compare Vibram Five Fingers vs Xero Shoes'
 SITEURL = 'http://shoes.shaunagordon.com'
 
 PATH = 'content'

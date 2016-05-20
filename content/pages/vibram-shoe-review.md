@@ -2,7 +2,7 @@ title: About Vibram Five Finger Shoes
 subtitle: An In-Depth Review
 slug: vibram
 
-Four years ago, I picked up my very first pair of Vibram Five Fingers shoes -- a pair of [KSO TrekSports](http://amzn.to/1SytFhO). I absolutely loved them and wore them everywhere, including to work when my work environment allowed for it. I even picked up a pair of [Treksports](http://amzn.to/1pm4CRy) for indoor training. Two years later, I snagged a pair of [Lontras](http://amzn.to/1qFqGYm), the insulated winter shoes, so I could wear them year-round. About that same time, I was in need of a new pair of "summer" Vibrams, so I picked up the [Bikila LS](http://amzn.to/1Syu9o1) model, and proceeded to walk through them. Twice. After four years, and at least as many pairs, I've finally decided to write a thorough review on them.
+Four years ago, I picked up my very first pair of Vibram Five Fingers shoes -- a pair of [KSO TrekSports](http://amzn.to/1SytFhO){:rell=nofollow}. I absolutely loved them and wore them everywhere, including to work when my work environment allowed for it. I even picked up a pair of [Treksports](http://amzn.to/1pm4CRy){:rell=nofollow} for indoor training. Two years later, I snagged a pair of [Lontras](http://amzn.to/1qFqGYm){:rell=nofollow}, the insulated winter shoes, so I could wear them year-round. About that same time, I was in need of a new pair of "summer" Vibrams, so I picked up the [Bikila LS](http://amzn.to/1Syu9o1){:rell=nofollow} model, and proceeded to walk through them. Twice. After four years, and at least as many pairs, I've finally decided to write a thorough review on them.
 
 <!-- summary -->
 # Overall Rating: <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star-o" aria-hidden="true"></i>
@@ -32,13 +32,13 @@ Like the longevity, I would be more impressed with the price point had the compe
 
 By and large, Vibrams are among my favorite shoe as far as comfort goes...if you get the right size and model for your foot. Due to their design, their sizing is a lot more sensitive, and being off in sizing is a lot less forgiving than typical shoes. Where Vibram loses part of a star is in the lack of consistency of fit in sizes. I wear a 42 in the Bikila LS and they fit like a glove, but my TrekSports suffered from being either a little too large or a little too small, neither of which were particularly comfortable compared to what they should have been. I highly recommend going with a model like the Bikila LS, which has the "quick lace" system, as well as a more flexible fabric upper, which combine to make it quite a bit more comfortable than its stiffer, velcro predecessors.
 
-The Lontras are also quite comfortable, especially when paired with the [Injiji toe socks](http://amzn.to/1pmbFtv). Since they're water resistant, they seal pretty tight, keeping the snow out and your feet quite warm in the winter time.
+The Lontras are also quite comfortable, especially when paired with the [Injiji toe socks](http://amzn.to/1pmbFtv){:rell=nofollow}. Since they're water resistant, they seal pretty tight, keeping the snow out and your feet quite warm in the winter time.
 
 #### Weather Experience
 
 One of the biggest questions I get asked is how Vibrams do in cold and wet weather. The short answer is "surprisingly well."
 
-Even the standard ones with full-foot fabric, which aren't water resistant, do fairly well in the cold, as long as it's a dry cold. They insulate in much the same way stockings or leggings insulate, with the layer of fabric that expands the body's natural "air insulation." However, since these models are, by design, not water resistant, cold and wet together make for a less than pleasant experience. Dry cold, though? You can easily wear them to around 20&deg; Fahrenheit without getting overly cold. (Models with minimal covering, such as the [Vi-S](http://amzn.to/1VnJzfs) will, of course, not be able to go as cold, since your feet are not covered much at all.)
+Even the standard ones with full-foot fabric, which aren't water resistant, do fairly well in the cold, as long as it's a dry cold. They insulate in much the same way stockings or leggings insulate, with the layer of fabric that expands the body's natural "air insulation." However, since these models are, by design, not water resistant, cold and wet together make for a less than pleasant experience. Dry cold, though? You can easily wear them to around 20&deg; Fahrenheit without getting overly cold. (Models with minimal covering, such as the [Vi-S](http://amzn.to/1VnJzfs){:rell=nofollow} will, of course, not be able to go as cold, since your feet are not covered much at all.)
 
 Cold and wet is where the Lontras and other newer water resistant and insulated models come in. The waterproofing allows the Lontras to be worn in snow and slushy conditions, as well as slightly colder dry conditions. They can be worn in even colder with the inclusion of the Injinji socks. I've worn them in weather as cold around 0&deg; Fahrenheit with little issue in dry weather, though that cold and wet start pushing the shoe's limits.
 
@@ -54,6 +54,6 @@ The next hardest part is learning to walk in barefoot shoes. If you don't normal
 
 Ah, groundfeel, the golden child of minimalist/barefoot shoes. After all, without groundfeel, you're just wearing shoes.
 
-Groundfeel can vary quite widely, depending on the model you get. The [Lontras](http://amzn.to/1qFqGYm), for example, don't rank as high as its better-weather cousins. That's the price the Vibram wearer pays for insulation and winter wearability. Don't be fooled, though, there's still enough to navigate the treacherous ground of an icy sidewalk or parking lot.
+Groundfeel can vary quite widely, depending on the model you get. The Lontras, for example, don't rank as high as its better-weather cousins. That's the price the Vibram wearer pays for insulation and winter wearability. Don't be fooled, though, there's still enough to navigate the treacherous ground of an icy sidewalk or parking lot.
 
 Overall, Vibrams have spectacular groundfeel, and if you prefer more, you'll especially love the lighterweight models. From the gravel in the driveway to the warmth of the parking lot blacktop, Vibrams can feel it all.
