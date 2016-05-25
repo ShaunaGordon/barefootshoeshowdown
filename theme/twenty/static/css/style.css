@@ -1061,3 +1061,19 @@
 		padding: 20px;
 		/*border-radius: 15px;*/
 	}
+
+/* Sidebars */
+
+.sidebar {
+	position: relative;
+}
+
+.sidebar .vibram {
+	width: 350px;
+    text-align: center;
+    background: #000;
+    color: #fff;
+    font-size: 1.5em;
+    position: fixed;
+    margin: 10px 10px inherit inherit;
+}
