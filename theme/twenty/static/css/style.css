@@ -1074,6 +1074,6 @@
     background: #000;
     color: #fff;
     font-size: 1.5em;
-    position: fixed;
-    margin: 10px 10px inherit inherit;
+    /*position: fixed;*/
+    /*margin: 10px 10px inherit inherit;*/
 }
