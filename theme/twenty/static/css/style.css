@@ -9,6 +9,10 @@
 
 /* Basic */
 
+	html, body {
+		height: 100%;
+	}
+
 	body, #skel-layers-wrapper {
 		background: #f3f6fa;
 	}

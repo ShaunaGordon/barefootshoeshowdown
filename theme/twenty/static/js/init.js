@@ -138,6 +138,8 @@ skel.init({
 
 	});
 
-	$(".fixedsticky").fixedsticky();
-
 })(jQuery);
+
+$(document).ready({
+	$(".fixedsticky").fixedsticky();
+});
