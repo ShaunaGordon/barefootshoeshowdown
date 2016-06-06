@@ -135,6 +135,8 @@ skel.init({
 				});
 
 			}
+			
+			$(".sticky").fixedsticky();
 
 	});
 
