@@ -136,7 +136,7 @@ skel.init({
 
 			}
 			
-			$(".sticky").fixedsticky();
+			$(".fixedsticky").fixedsticky();
 
 	});
 
