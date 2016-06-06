@@ -9,10 +9,6 @@
 
 /* Basic */
 
-	html, body {
-		height: 100%;
-	}
-
 	body, #skel-layers-wrapper {
 		background: #f3f6fa;
 	}
@@ -1073,15 +1069,6 @@
 	height: 100%;
 }
 
-.fixedsticky {
-	position: -webkit-sticky;
-	position: -moz-sticky;
-	position: -ms-sticky;
-	position: -o-sticky;
-	position: sticky;
-	top: 10px;
-}
-
 .sidebar .vibram {
 	width: 100%;
     text-align: center;
@@ -1104,20 +1091,4 @@
     padding: 8px;
     font-weight: bold;
     text-align: center;
-}
-
-/* When position: sticky is supported but native behavior is ignored */
-.fixedsticky-withoutfixedfixed .fixedsticky-off,
-.fixed-supported .fixedsticky-off {
-	position: static;
-}
-.fixedsticky-withoutfixedfixed .fixedsticky-on,
-.fixed-supported .fixedsticky-on {
-	position: fixed;
-}
-.fixedsticky-dummy {
-	display: none;
-}
-.fixedsticky-on + .fixedsticky-dummy {
-	display: block;
 }

@@ -139,7 +139,3 @@ skel.init({
 	});
 
 })(jQuery);
-
-$(document).ready(function(){
-	$(".fixedsticky").fixedsticky();
-});
