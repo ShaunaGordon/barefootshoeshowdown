@@ -140,6 +140,6 @@ skel.init({
 
 })(jQuery);
 
-$(document).ready({
+$(document).ready(function(){
 	$(".fixedsticky").fixedsticky();
 });
