@@ -1065,12 +1065,14 @@
 /* Sidebars */
 
 .sidebar {
-	position: relative;
-	height: 100%;
+	position: fixed;
+	height: 200px;
+	width: 200px;
+	top: 50%;
+	right: 0;
 }
 
 .sidebar .vibram {
-	width: 100%;
     text-align: center;
     background: #000;
     color: #fff;
