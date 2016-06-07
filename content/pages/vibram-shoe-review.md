@@ -1,7 +1,7 @@
 title: About Vibram Five Finger Shoes
 subtitle: An In-Depth Review
 slug: vibram
-sidebar: <div class="vibram fixedsticky"><p>Ready for a pair?</p><a href="http://amzn.to/1Xuv9JX">Buy Vibram FiveFingers Now!</a></div>
+sidebar: <div><p>Ready for a pair?</p><a href="http://amzn.to/1Xuv9JX">Buy Vibram FiveFingers Now!</a></div>
 
 Four years ago, I picked up my very first pair of Vibram Five Fingers shoes -- a pair of [KSO TrekSports](http://amzn.to/1SytFhO){:rell=nofollow}. I absolutely loved them and wore them everywhere, including to work when my work environment allowed for it. I even picked up a pair of [Treksports](http://amzn.to/1pm4CRy){:rell=nofollow} for indoor training. Two years later, I snagged a pair of [Lontras](http://amzn.to/1qFqGYm){:rell=nofollow}, the insulated winter shoes, so I could wear them year-round. About that same time, I was in need of a new pair of "summer" Vibrams, so I picked up the [Bikila LS](http://amzn.to/1Syu9o1){:rell=nofollow} model, and proceeded to walk through them. Twice. After four years, and at least as many pairs, I've finally decided to write a thorough review on them.
 

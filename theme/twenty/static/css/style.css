@@ -1072,24 +1072,29 @@
 	right: 0;
 }
 
-.sidebar .vibram {
+.sidebar div {
     text-align: center;
-    background: #000;
-    color: #fff;
+    background: rgb(124, 128, 129);
+    color: rgb(243, 246, 250);
 }
 
-.sidebar .vibram p {
-	line-height: 2em;
+.sidebar p {
+	font-size: 1.3em;
+	margin: 0;
+	padding: 10px;
 }
 
-.sidebar .vibram a {
+.sidebar a {
 	display: block;
     background: #ccc;
     color: #000;
     text-decoration: none;
-    height: 1.5em;
     line-height: 1.5em;
     padding: 8px;
     font-weight: bold;
     text-align: center;
+}
+
+.sidebar a:hover {
+	background: #999;
 }

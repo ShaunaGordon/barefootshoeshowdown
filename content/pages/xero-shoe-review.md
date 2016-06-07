@@ -1,6 +1,7 @@
 title: About Xero Shoes
 subtitle: An In-Depth Review
 slug: xero
+sidebar: <div><p>Ready for a pair?</p><a href="http://xeroshoes.com/go/showdown">Buy Xero Shoes Now!</a></div>
 
 After four years of wearing Vibrams, I wanted to try a different kind of shoe. I wanted the barefoot experience, without both dealing with the social issues that come from going around barefoot and the price of my then-favorite minimalist shoe. So, in the spring of 2016, when I thoroughly wore out my latest pair of Vibrams, I switched to [Xero Shoes.](http://xeroshoes.com/go/showdown){:rell=nofollow}. Specifically, I got the 4mm Connect DIY kit. After several months of wearing them *everywhere*, I've got enough data on them to start providing a review.
 
