@@ -1086,8 +1086,8 @@
 
 .sidebar a {
 	display: block;
-    background: #ccc;
-    color: #000;
+    background: rgb(124, 128, 129);
+    color: rgb(243, 246, 250);
     text-decoration: none;
     line-height: 1.5em;
     padding: 8px;
@@ -1096,5 +1096,6 @@
 }
 
 .sidebar a:hover {
-	background: #999;
+	background: rgb(243, 246, 250);
+	color: rgb(124, 128, 129);
 }
