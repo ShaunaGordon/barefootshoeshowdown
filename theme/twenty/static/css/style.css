@@ -1105,5 +1105,6 @@
 }
 
 .content td {
-	min-width: 100px;
+	min-width: 150px;
+	padding: 5px;
 }
