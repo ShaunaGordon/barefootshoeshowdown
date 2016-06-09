@@ -1066,9 +1066,8 @@
 
 .sidebar {
 	position: fixed;
-	height: 200px;
 	width: 200px;
-	bottom: 10%;
+	bottom: 10px;
 	right: 0;
 }
 
