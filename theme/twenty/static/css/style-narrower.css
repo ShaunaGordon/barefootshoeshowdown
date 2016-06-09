@@ -114,3 +114,9 @@
 	#footer {
 		padding: 4em 1.5em;
 	}
+	
+/* Sidebar */
+	.sidebar {
+		position: relative;
+		width: 100%;
+	}
