@@ -1098,3 +1098,7 @@
 	background: rgb(124, 128, 129);
 	color: rgb(243, 246, 250);
 }
+
+.social {
+	box-sizing: content-box;
+}
