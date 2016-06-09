@@ -1,4 +1,4 @@
-title: Vibram Five Fingers vs Xero Shoes
+title: Comparison Chart
 subtitle: A Comparison Of Both Shoe Types
 slug: compare
 

@@ -11,7 +11,7 @@ skel.init({
 		wide:		{ range: '-1680', href: '/css/style-wide.css', containers: 1200, grid: { gutters: 40 } },
 		normal:		{ range: '-1280', href: '/css/style-normal.css', containers: 960, lockViewport: true },
 		narrow:		{ range: '-980', href: '/css/style-narrow.css', containers: '95%', grid: { gutters: 30 } },
-		narrower:	{ range: '-840', href: '/css/style-narrower.css', grid: { collapse: 1 } },
+		narrower:	{ range: '-860', href: '/css/style-narrower.css', grid: { collapse: 1 } },
 		mobile:		{ range: '-640', href: '/css/style-mobile.css', containers: '100%', grid: { gutters: 15, collapse: 2 } }
 	}
 }, {

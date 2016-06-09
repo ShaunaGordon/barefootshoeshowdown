@@ -1,4 +1,4 @@
-title: About Vibram Five Finger Shoes
+title: About Vibram Five Fingers
 subtitle: An In-Depth Review
 slug: vibram
 sidebar: <div><p>Ready for a pair?</p><a href="http://amzn.to/1Xuv9JX">Buy Vibram FiveFingers Now!</a></div>
