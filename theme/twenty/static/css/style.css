@@ -1099,6 +1099,6 @@
 	color: rgb(243, 246, 250);
 }
 
-.social {
+.social, .social:before, .social:after, .social span, .social span:before, .social span:after {
 	box-sizing: content-box;
 }
